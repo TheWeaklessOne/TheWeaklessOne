@@ -10,7 +10,7 @@ A Swift frontend developer from Moscow.
 
 ### Technologies
 
-![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
+![Figma](https://img.shields.io/badge/-Figma-fff?&logo=Figma)
 ![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
 ![Unix](https://img.shields.io/badge/-Unix-fff?&logo=Unix&logoColor=000)
 
