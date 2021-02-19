@@ -1,6 +1,6 @@
 ### I'm Daniil Teterin
 
-A Swift frontend developer from Moscow.
+A swift frontend developer from Sber 😎
 
 ### Languages
 
