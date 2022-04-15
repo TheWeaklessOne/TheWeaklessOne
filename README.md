@@ -1,6 +1,6 @@
 ### I'm Daniil Teterin
 
-A swift frontend developer from Sber 😎
+A swift frontend developer at Sber
 
 ### Languages
 
