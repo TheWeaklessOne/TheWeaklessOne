@@ -1,12 +1,13 @@
 ### I'm Daniil Teterin
 
-A swift mobile developer at Sber
+A swift mobile developer
 
 ### Languages
 
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/theweaklessone?tab=repositories&q=&type=&language=c)
 [![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/theweaklessone?tab=repositories&q=&type=&language=c++)
 [![Swift](https://img.shields.io/badge/-Swift-fff?&logo=Swift)](https://github.com/theweaklessone?tab=repositories&q=&type=&language=swift)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=Kotlin)](https://github.com/theweaklessone?tab=repositories&q=&type=&language=kotlin)
 
 ### Technologies
 
