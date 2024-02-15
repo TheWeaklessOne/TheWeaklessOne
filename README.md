@@ -17,6 +17,4 @@ A swift mobile developer at Sber
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=theweaklessone&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theweaklessone&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-[![wstygg's 42 stats](https://badge42.vercel.app/api/v2/cl20fwc00001809jvp8gh71ah/stats?cursusId=21&coalitionId=89)](https://profile.intra.42.fr/users/wstygg)
-
 ![TheWeaklessOne's profile views](https://komarev.com/ghpvc/?username=TheWeaklessOne&label=PROFILE+VIEWS&style=flat-square)
